@@ -1,0 +1,1240 @@
+{
+  "resources" : [{
+  "resourceType": "CodeSystem",
+  "id": "loinc-linguistic-variant-de-de-2-77-0",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/loinc-linguistic-variant-de-de",
+  "version": "2.77.0",
+  "title": "LOINC Linguistic Variant deDE",
+  "description": "LOINC (Logical Observation Identifiers Names and Codes) ist ein vom Regenstrief Institute herausgegebenes internationales System zur eindeutigen Identifizierung und Kodierung von medizinischen Beobachtungen, insbesondere von Laboruntersuchungen. Das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) stellt die Übersetzung von LOINC-Bezeichnern für Deutschland bereit und übermittelt diese an das Regenstrief Institute."
+}, {
+  "resourceType": "ValueSet",
+  "id": "loinc-translated-terms-de-de-2-77-0",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/loinc-translated-terms-de-de",
+  "version": "2.77.0",
+  "title": "LOINC Translated Terms deDE",
+  "description": "Übliche in Deutschland genutzte LOINC-Konzepte"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "loinc-linguistic-variant-de-de-2-78-0",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/loinc-linguistic-variant-de-de",
+  "version": "2.78.0",
+  "title": "LOINC Linguistic Variant deDE",
+  "description": "LOINC (Logical Observation Identifiers Names and Codes) ist ein vom Regenstrief Institute herausgegebenes internationales System zur eindeutigen Identifizierung und Kodierung von medizinischen Beobachtungen, insbesondere von Laboruntersuchungen. Das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) stellt die Übersetzung von LOINC-Bezeichnern für Deutschland bereit und übermittelt diese an das Regenstrief Institute."
+}, {
+  "resourceType": "ValueSet",
+  "id": "loinc-translated-terms-de-de-2-78-0",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/loinc-translated-terms-de-de",
+  "version": "2.78.0",
+  "title": "LOINC Translated Terms deDE",
+  "description": "Übliche in Deutschland genutzte LOINC-Konzepte"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ucum-common-units-translation-de-de-1-5-0",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ucum-common-units-translation-de-de",
+  "version": "1.5.0",
+  "title": "UCUM Common Units Translation deDE",
+  "description": "Unified Code for Units of Measure (UCUM) ist ein Kodiersystem für die standardisierte Übermittlung von Maßeinheiten, das vom Regenstrief Institute herausgegeben wird. Das BfArM stellt eine Übersetzung der Common UCUM Units (Version 1.5) bereit, die in Deutschland für gesetzliche Anwendungszwecke gemäß §355 SGB V und im europäischen Austausch gemäß § 219d SGB V verwendet werden. Diese umfasst eine deutschsprachige Bezeichnung für die ausgewählten Kodes sowie ein Anzeigekürzel. Die UCUM Common Units (Version 1.5 vom 17.06.2020) umfassen gebräuchliche Einheiten, die international in der Wissenschaft, auch im labormedizinischen und pharmazeutischen Bereich verwendet werden."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "orphacodes-2023",
+  "url": "http://www.orpha.net",
+  "version": "2023",
+  "title": "ORPHAcodes for identification / coding of rare diseases",
+  "description": "The Orphanet nomenclature is used to code rare diseases diagnoses with a specific identifier, named ORPHAcode, in order to facilitate data collection, research and analysis."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "orphacodes-2024",
+  "url": "http://www.orpha.net",
+  "version": "2024",
+  "title": "ORPHAcodes for identification / coding of rare diseases",
+  "description": "The Orphanet nomenclature is used to code rare diseases diagnoses with a specific identifier, named ORPHAcode, in order to facilitate data collection, research and analysis."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-einmalk-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-einmalk",
+  "version": "2023",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-zusatzk-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-zusatzk",
+  "version": "2023",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-2023",
+  "url": "http://fhir.de/ValueSet/bfarm/ops",
+  "version": "2023",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-einmalk-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-einmalk",
+  "version": "2023",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-2023",
+  "url": "http://fhir.de/CodeSystem/bfarm/ops",
+  "identifier": [ {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/ops"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/ops"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.529"
+  } ],
+  "version": "2023",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-zusatzk-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-zusatzk",
+  "version": "2023",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-alt-neu-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-alt-neu",
+  "version": "2023",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Alt zu Neu",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-terminale-kodes-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-terminale-kodes",
+  "version": "2023",
+  "title": "OPS Terminale Kodes",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen. Terminale Kodes"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-p17b-d-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-p17b-d",
+  "version": "2023",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-p17b-d-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-p17b-d",
+  "version": "2023",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-neu-alt-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-neu-alt",
+  "version": "2023",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Neu zu Alt",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-einmalk-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-einmalk",
+  "version": "2022",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-alt-neu-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-alt-neu",
+  "version": "2022",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Alt zu Neu",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-p17b-d-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-p17b-d",
+  "version": "2022",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-2022",
+  "url": "http://fhir.de/ValueSet/bfarm/ops",
+  "version": "2022",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-p17b-d-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-p17b-d",
+  "version": "2022",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-zusatzk-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-zusatzk",
+  "version": "2022",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-2022",
+  "url": "http://fhir.de/CodeSystem/bfarm/ops",
+  "identifier": [ {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/ops"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.519"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/ops"
+  } ],
+  "version": "2022",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-einmalk-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-einmalk",
+  "version": "2022",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-neu-alt-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-neu-alt",
+  "version": "2022",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Neu zu Alt",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-terminale-kodes-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-terminale-kodes",
+  "version": "2022",
+  "title": "OPS Terminale Kodes",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen. Terminale Kodes"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-zusatzk-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-zusatzk",
+  "version": "2022",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-zusatzk-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-zusatzk",
+  "version": "2025",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-terminale-kodes-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-terminale-kodes",
+  "version": "2025",
+  "title": "OPS Terminale Kodes",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen. Terminale Kodes"
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-neu-alt-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-neu-alt",
+  "version": "2025",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Neu zu Alt",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-2025",
+  "url": "http://fhir.de/ValueSet/bfarm/ops",
+  "version": "2025",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-einmalk-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-einmalk",
+  "version": "2025",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-zusatzk-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-zusatzk",
+  "version": "2025",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-p17b-d-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-p17b-d",
+  "version": "2025",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-2025",
+  "url": "http://fhir.de/CodeSystem/bfarm/ops",
+  "identifier": [ {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/ops"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.549"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/ops"
+  } ],
+  "version": "2025",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-alt-neu-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-alt-neu",
+  "version": "2025",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Alt zu Neu",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-einmalk-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-einmalk",
+  "version": "2025",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-p17b-d-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-p17b-d",
+  "version": "2025",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-2024",
+  "url": "http://fhir.de/CodeSystem/bfarm/ops",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.536"
+  }, {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/ops"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/ops"
+  } ],
+  "version": "2024",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-p17b-d-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-p17b-d",
+  "version": "2024",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-terminale-kodes-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-terminale-kodes",
+  "version": "2024",
+  "title": "OPS Terminale Kodes",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen. Terminale Kodes"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-einmalk-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-einmalk",
+  "version": "2024",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-zusatzk-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-zusatzk",
+  "version": "2024",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-p17b-d-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-p17b-d",
+  "version": "2024",
+  "title": "Metadatendefinition: § 17b und/oder § 17d KHG",
+  "description": "Gültigkeit nach § 17b und/oder § 17d KHG. Im § 17b KHG ist die Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser und in § 17d KHG die Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen gesetzlich geregelt."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-einmalk-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/ops-einmalk",
+  "version": "2024",
+  "title": "Metadatendefinition: Einmalkode",
+  "description": "Einmalkodes sind Kodes, die gemäß den Hinweisen im OPS nur einmal pro stationären Aufenthalt anzugeben sind. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-alt-neu-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-alt-neu",
+  "version": "2024",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Alt zu Neu",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "ops-ueberleitung-neu-alt-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/ops-ueberleitung-neu-alt",
+  "version": "2024",
+  "title": "Überleitung des Operationen- und Prozedurenschlüssels – unidirektional von Neu zu Alt",
+  "description": "Überleitung des Operationen- und Prozedurenschlüssels – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "ops-2024",
+  "url": "http://fhir.de/ValueSet/bfarm/ops",
+  "version": "2024",
+  "title": "Operationen- und Prozedurenschlüssel",
+  "description": "Der Operationen- und Prozedurenschlüssel (OPS) ist die amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein medizinischen Maßnahmen."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "ops-zusatzk-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/ops-zusatzk",
+  "version": "2024",
+  "title": "Metadatendefinition: Zusatzkode",
+  "description": "Zusatzkodes sind Kodes, die gemäß den Klassentiteln und Hinweisen im OPS nur zusätzlich zu einem Primärkode angegeben werden dürfen. Nur endständige Kodes können negativ mit 'N' oder positiv mit 'J' gekennzeichnet sein."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agehigh-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agehigh",
+  "version": "2023",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-exotic-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-exotic",
+  "version": "2023",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexreject-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexreject",
+  "version": "2023",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-content-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-content",
+  "version": "2023",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para301-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para301",
+  "version": "2023",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-ebmlabor-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-ebmlabor",
+  "version": "2023",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-content-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-content",
+  "version": "2023",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para295-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para295",
+  "version": "2023",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-infectious-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-infectious",
+  "version": "2023",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-ebmlabor-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-ebmlabor",
+  "version": "2023",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agereject-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agereject",
+  "version": "2023",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexcode-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexcode",
+  "version": "2023",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agehigh-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agehigh",
+  "version": "2023",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agelow-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agelow",
+  "version": "2023",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-infectious-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-infectious",
+  "version": "2023",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para301-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para301",
+  "version": "2023",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-2023",
+  "url": "http://fhir.de/ValueSet/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm"
+  } ],
+  "version": "2023",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-alt-neu-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-alt-neu",
+  "version": "2023",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Alt zu Neu",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para295-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para295",
+  "version": "2023",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexreject-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexreject",
+  "version": "2023",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-2023",
+  "url": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.530"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm"
+  } ],
+  "version": "2023",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-neu-alt-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-neu-alt",
+  "version": "2023",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Neu zu Alt",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agereject-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agereject",
+  "version": "2023",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexcode-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexcode",
+  "version": "2023",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-terminale-codes-2023",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-terminale-codes",
+  "version": "2023",
+  "title": "ICD-10-GM Terminale Codes",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland. Terminale Codes"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agelow-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agelow",
+  "version": "2023",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-exotic-2023",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-exotic",
+  "version": "2023",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agelow-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agelow",
+  "version": "2022",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agehigh-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agehigh",
+  "version": "2022",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-2022",
+  "url": "http://fhir.de/ValueSet/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm"
+  } ],
+  "version": "2022",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para295-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para295",
+  "version": "2022",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-infectious-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-infectious",
+  "version": "2022",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para295-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para295",
+  "version": "2022",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-terminale-codes-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-terminale-codes",
+  "version": "2022",
+  "title": "ICD-10-GM Terminale Codes",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland. Terminale Codes"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agehigh-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agehigh",
+  "version": "2022",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-ebmlabor-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-ebmlabor",
+  "version": "2022",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexreject-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexreject",
+  "version": "2022",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agereject-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agereject",
+  "version": "2022",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-content-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-content",
+  "version": "2022",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para301-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para301",
+  "version": "2022",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-exotic-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-exotic",
+  "version": "2022",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para301-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para301",
+  "version": "2022",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexreject-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexreject",
+  "version": "2022",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-exotic-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-exotic",
+  "version": "2022",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-2022",
+  "url": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.518"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm"
+  }, {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+  } ],
+  "version": "2022",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agereject-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agereject",
+  "version": "2022",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-infectious-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-infectious",
+  "version": "2022",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-neu-alt-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-neu-alt",
+  "version": "2022",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Neu zu Alt",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexcode-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexcode",
+  "version": "2022",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-alt-neu-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-alt-neu",
+  "version": "2022",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Alt zu Neu",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agelow-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agelow",
+  "version": "2022",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-content-2022",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-content",
+  "version": "2022",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexcode-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexcode",
+  "version": "2022",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-ebmlabor-2022",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-ebmlabor",
+  "version": "2022",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para301-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para301",
+  "version": "2025",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexreject-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexreject",
+  "version": "2025",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agehigh-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agehigh",
+  "version": "2025",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agelow-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agelow",
+  "version": "2025",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-exotic-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-exotic",
+  "version": "2025",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-ebmlabor-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-ebmlabor",
+  "version": "2025",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-2025",
+  "url": "http://fhir.de/ValueSet/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm"
+  } ],
+  "version": "2025",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agereject-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agereject",
+  "version": "2025",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexcode-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexcode",
+  "version": "2025",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-ebmlabor-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-ebmlabor",
+  "version": "2025",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para295-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para295",
+  "version": "2025",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexcode-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexcode",
+  "version": "2025",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agereject-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agereject",
+  "version": "2025",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-infectious-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-infectious",
+  "version": "2025",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agelow-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agelow",
+  "version": "2025",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexreject-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexreject",
+  "version": "2025",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-content-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-content",
+  "version": "2025",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-2025",
+  "url": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm"
+  }, {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.548"
+  } ],
+  "version": "2025",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-content-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-content",
+  "version": "2025",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agehigh-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agehigh",
+  "version": "2025",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-exotic-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-exotic",
+  "version": "2025",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para301-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para301",
+  "version": "2025",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para295-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para295",
+  "version": "2025",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-alt-neu-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-alt-neu",
+  "version": "2025",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Alt zu Neu",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-neu-alt-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-neu-alt",
+  "version": "2025",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Neu zu Alt",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-infectious-2025",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-infectious",
+  "version": "2025",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-terminale-codes-2025",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-terminale-codes",
+  "version": "2025",
+  "title": "ICD-10-GM Terminale Codes",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland. Terminale Codes"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-exotic-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-exotic",
+  "version": "2024",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-terminale-codes-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-terminale-codes",
+  "version": "2024",
+  "title": "ICD-10-GM Terminale Codes",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland. Terminale Codes"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agereject-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agereject",
+  "version": "2024",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-2024",
+  "url": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "old",
+    "system": "urn:ietf:rfc:3986",
+    "value": "http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm"
+  }, {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.2.276.0.76.5.537"
+  } ],
+  "version": "2024",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexcode-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexcode",
+  "version": "2024",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para301-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para301",
+  "version": "2024",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexreject-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexreject",
+  "version": "2024",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-2024",
+  "url": "http://fhir.de/ValueSet/bfarm/icd-10-gm",
+  "identifier": [ {
+    "use": "official",
+    "system": "urn:ietf:rfc:3986",
+    "value": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm"
+  } ],
+  "version": "2024",
+  "title": "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme",
+  "description": "Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-exotic-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-exotic",
+  "version": "2024",
+  "title": "Metadatendefinition: Seltene Krankheit",
+  "description": "Krankheit in Mitteleuropa sehr selten?"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-sexreject-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-sexreject",
+  "version": "2024",
+  "title": "Metadatendefinition: Art des Fehlers bei Geschlechtsbezug",
+  "description": "Art des Fehlers bei Geschlechtsbezug"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agelow-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agelow",
+  "version": "2024",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para301-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para301",
+  "version": "2024",
+  "title": "Metadatendefinition: Paragraph 301",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 301"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-ebmlabor-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-ebmlabor",
+  "version": "2024",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-para295-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-para295",
+  "version": "2024",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agehigh-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agehigh",
+  "version": "2024",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-content-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-content",
+  "version": "2024",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agehigh-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agehigh",
+  "version": "2024",
+  "title": "Metadatendefinition: Obere Altersgrenze",
+  "description": "obere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten bis zu einem Alter von höchstens m vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-alt-neu-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-alt-neu",
+  "version": "2024",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Alt zu Neu",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Vorjahresversion hin zur Jahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-infectious-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-infectious",
+  "version": "2024",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-para295-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-para295",
+  "version": "2024",
+  "title": "Metadatendefinition: Paragraph 295",
+  "description": "Verwendung der Schlüsselnummer nach Paragraph 295"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-agereject-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-agereject",
+  "version": "2024",
+  "title": "Metadatendefinition: Art des Fehlers bei Altersbezug",
+  "description": "Art des Fehlers bei Altersbezug"
+}, {
+  "resourceType": "ConceptMap",
+  "id": "icd10gm-ueberleitung-neu-alt-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ConceptMap/icd10gm-ueberleitung-neu-alt",
+  "version": "2024",
+  "title": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – unidirektional von Neu zu Alt",
+  "description": "Überleitung der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme – Ausgehend von der Jahresversion hin zur Vorjahresversion. Den Vorgaben der FHIR-Spezifikation entsprechend werden Überleitungen von Quellkodes auf UNDEF („Undefiniert“, vgl. TXT(CSV)-Format der Überleitung) über das Ziel („target“) mit der Äquivalenz („equivalence“) des Typs „unmatched“ abgebildet. Hingegen sind Überleitungen von UNDEF auf Zielkodes nicht abgebildet, da UNDEF nicht als Quell-Kode verwendet werden kann. Diese Überleitungen, sofern vorhanden, sind nur in der jeweils gegensätzlichen ConceptMap-Datei enthalten."
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-agelow-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-agelow",
+  "version": "2024",
+  "title": "Metadatendefinition: Untere Altersgrenze",
+  "description": "untere Altersgrenze für eine Schlüsselnummer (Eine Krankheit kann auftreten ab einem Alter von mindestens n vollendeten Lebenstagen/-jahren.)"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-infectious-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-infectious",
+  "version": "2024",
+  "title": "Metadatendefinition: IfSG-Meldung",
+  "description": "IfSG-Meldung kennzeichnet, dass bei Diagnosen, die mit dieser Schlüsselnummer kodiert sind, besonders auf die Arzt-Meldepflicht nach dem Infektionsschutzgesetz (IfSG) hinzuweisen ist"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-content-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-content",
+  "version": "2024",
+  "title": "Metadatendefinition: Belegung",
+  "description": "Schlüsselnummer mit Inhalt belegt?"
+}, {
+  "resourceType": "ValueSet",
+  "id": "icd10gm-sexcode-2024",
+  "url": "https://terminologien.bfarm.de/fhir/ValueSet/icd10gm-sexcode",
+  "version": "2024",
+  "title": "Metadatendefinition: Geschlechtsbezug",
+  "description": "Geschlechtsbezug der Schlüsselnummer"
+}, {
+  "resourceType": "CodeSystem",
+  "id": "icd10gm-ebmlabor-2024",
+  "url": "https://terminologien.bfarm.de/fhir/CodeSystem/icd10gm-ebmlabor",
+  "version": "2024",
+  "title": "Metadatendefinition: IfSG-Labor",
+  "description": "IfSG-Labor kennzeichnet, dass bei Laboruntersuchungen zu diesen Diagnosen die Laborausschlussziffer des EBM (32006) gewählt werden kann"
+}]
+}

@@ -1,0 +1,48 @@
+server:
+  port: "${SERVER_PORT:8080}"
+  error:
+    whitelabel:
+      enabled: false
+spring:
+  application:
+    name: canonical-redirector
+application:
+  title: "ZTS Canonical Redirector"
+  version: "${VERSION:2.0.0}"
+  accessToken: "${ACCESS_TOKEN:}"
+  resourcesList: "${RESOURCES_LIST:https://terminologien.bfarm.de/terminologies/resourceslist.json}"
+  pathToResourcesFile: "${PATH_TO_RESOURCES_FILE:target/files/resources_list.json}"
+  timeInterval: "${TIME_INTERVAL:600000}"
+  contentBaseURL: "${CONTENT_BASE_URL:https://dev.terminologien.bfarm.de}"
+  api-docs:
+    serverUrls:
+      - ${application.contentBaseURL}
+    title: "ZTS Canonical Redirector API"
+    version: "1.0.0"
+logging:
+  level:
+    root: "${LOGGING_ROOT_LEVEL:INFO}"
+    org:
+      springframework:
+        boot: "${LOGGING_SPRINGBOOT_LEVEL:WARN}"
+        web:
+          reactive: "${LOGGING_WEB_REACTIVE_LEVEL:INFO}"
+        webflux: "${LOGGING_WEBFLUX_LEVEL:INFO}"
+    de:
+      gematik:
+        zts:
+          redirector: "${LOGGING_REDIRECTOR_LEVEL:DEBUG}"
+springdoc:
+  api-docs:
+    enabled: true
+    path: /docs/v3/api-docs
+    version: openapi_3_0
+  paths-to-exclude: /api/health
+  auto-tag-classes: true
+  swagger-ui:
+    enabled: false
+cache:
+  cublic: "${CACHE_IS_PUBLIC:true}"
+  noCache: "${CACHE_NO_CACHE:false}"
+  noStore: "${CACHE_NO_STORE:true}"
+  maxAge: "${CACHE_MAX_AGE:120}"
