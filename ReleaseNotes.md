@@ -2,6 +2,12 @@
 
 # Release Notes 
 
+## Version 2.0.15 (2026-09)
+
+### changed
+
+- Upgraded Java 21 -> 25
+
 ## Version 2.0.14 (2026-08)
 
 ### changed
