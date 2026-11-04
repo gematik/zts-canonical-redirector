@@ -2,6 +2,12 @@
 
 # Release Notes 
 
+## Version 2.0.16 (2026-11)
+
+### changed
+
+- Updated dependencies
+
 ## Version 2.0.15 (2026-09)
 
 ### changed
