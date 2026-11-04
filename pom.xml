@@ -5,12 +5,12 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>4.1.1</version>
+        <version>4.1.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>de.gematik.zts</groupId>
     <artifactId>canonical-redirector</artifactId>
-    <version>2.0.15-b67</version>
+    <version>2.0.16-b74</version>
     <name>Canonical Redirector</name>
     <description>Canonical Redirector for the forwarding of Canonical-URLs to the Home Page of the gematik Terminology
         Server (ZTS)
@@ -32,31 +32,31 @@
         <maven.surefire.version>3.5.4</maven.surefire.version>
         <maven.failsafe.plugin.version>${maven.surefire.version}</maven.failsafe.plugin.version>
         <compiler.maven.plugin.version>3.16.0</compiler.maven.plugin.version>
-        <enforcer.plugin.version>3.6.3</enforcer.plugin.version>
-        <maven.surefire.version>3.6.0</maven.surefire.version>
+        <enforcer.plugin.version>3.7.0</enforcer.plugin.version>
+        <maven.surefire.version>3.6.1</maven.surefire.version>
         <cyclonedx.maven.plugin.version>2.9.3</cyclonedx.maven.plugin.version>
         <ospo-resources.version>1.3.2</ospo-resources.version>
         <license-maven-plugin.version>2.7.1</license-maven-plugin.version>
         <notice-maven-plugin.version>2.0.0</notice-maven-plugin.version>
         <!-- libraries -->
-        <reactor.netty.version>1.3.7</reactor.netty.version>
-        <logback.version>1.6.4</logback.version>
-        <reactor.version>3.8.7</reactor.version>
+        <reactor.netty.version>1.3.8</reactor.netty.version>
+        <logback.version>1.6.6</logback.version>
+        <reactor.version>3.8.8</reactor.version>
         <mockito.version>5.24.0</mockito.version>
-        <springdoc.version>3.1.1</springdoc.version>
-        <mockwebserver.version>5.5.0</mockwebserver.version>
+        <springdoc.version>3.2.0</springdoc.version>
+        <mockwebserver.version>5.5.1</mockwebserver.version>
         <json.version>20251224</json.version>
         <commons-io.version>2.22.0</commons-io.version>
         <logstash-logback-encoder.version>9.0</logstash-logback-encoder.version>
         <janino.version>3.1.12</janino.version>
-        <commons-lang3.version>3.20.0</commons-lang3.version>
-        <asm.version>9.10.1</asm.version>
+        <commons-lang3.version>3.21.0</commons-lang3.version>
+        <asm.version>9.11.1</asm.version>
         <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
-        <fasterxml.jackson.version>2.22.3</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.22.4</fasterxml.jackson.version>
         <fasterxml.jackson.annotations.version>2.22</fasterxml.jackson.annotations.version>
-        <tools.jackson.version>3.2.3</tools.jackson.version>
+        <tools.jackson.version>3.2.4</tools.jackson.version>
         <!-- JaCoCo Properties -->
-        <jacoco.version>0.8.15</jacoco.version>
+        <jacoco.version>0.8.16</jacoco.version>
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
         <sonar.coverage.jacoco.xmlReportPaths>**/site/jacoco-it/jacoco.xml,**/site/jacoco/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
@@ -102,32 +102,32 @@
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-codec-compression</artifactId>
-                <version>4.2.18.Final</version>
+                <version>4.2.19.Final</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-codec-dns</artifactId>
-                <version>4.2.18.Final</version>
+                <version>4.2.19.Final</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-codec-http</artifactId>
-                <version>4.2.18.Final</version>
+                <version>4.2.19.Final</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-codec-http2</artifactId>
-                <version>4.2.18.Final</version>
+                <version>4.2.19.Final</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-codec-http3</artifactId>
-                <version>4.2.18.Final</version>
+                <version>4.2.19.Final</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-transport-native-epoll</artifactId>
-                <version>4.2.18.Final</version>
+                <version>4.2.19.Final</version>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
