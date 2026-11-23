@@ -1,4 +1,4 @@
-FROM gematik1/osadl-alpine-openjdk25-jre@sha256:b562d62fdbfc77fa00bfc98b5bde97cc6add0e0c32da351b3acb97ffef1adce3
+FROM gematik1/osadl-alpine-openjdk25-jre@sha256:7ea25bee8803671c7d3532c3111c7452c0291c751c3488e057d76066e6a7104c
 
 # Note: The Docker context should be the project root directory when building the image
 # Log the current working directory and its contents before copying the JAR file

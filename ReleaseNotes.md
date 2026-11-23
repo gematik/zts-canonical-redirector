@@ -2,6 +2,13 @@
 
 # Release Notes 
 
+## Version 2.0.17 (2026-11)
+
+### changed
+
+- Updated dependencies
+- Updated base image
+
 ## Version 2.0.16 (2026-11)
 
 ### changed
