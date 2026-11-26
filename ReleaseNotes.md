@@ -2,6 +2,12 @@
 
 # Release Notes 
 
+## Version 2.0.18 (2026-11)
+
+### fixed
+
+- Issue with Netty
+
 ## Version 2.0.17 (2026-11)
 
 ### changed
